@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ALCHEMYgraph" targetName="ALCHEMYgraph" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adce0d69-c3ae-4dab-8270-9d02622a6934" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aXH6nC06yVVcgvqNDRjV8Yl5xv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ALCHEMYgraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ALCHEMYgraph" TARGET_NAME="ALCHEMYgraph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ALCHEMYgraph" RUN_TARGET_NAME="ALCHEMYgraph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adce0d69-c3ae-4dab-8270-9d02622a6934" name="Default Changelist" comment="" />
+      <created>1586874845072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586874845072</updated>
+      <workItem from="1586874847695" duration="17340000" />
+      <workItem from="1586949273533" duration="656000" />
+      <workItem from="1586960641378" duration="2506000" />
+      <workItem from="1586970025515" duration="2330000" />
+      <workItem from="1586974739967" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="140" width="424" height="513" key="FileChooserDialogImpl" timestamp="1586971442375">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="493" y="140" width="424" height="513" key="FileChooserDialogImpl/65.27.1301.741@65.27.1301.741" timestamp="1586971442375" />
+    <state width="1255" height="219" key="GridCell.Tab.0.bottom" timestamp="1586974853713">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1586974853713" />
+    <state width="1255" height="219" key="GridCell.Tab.0.center" timestamp="1586974853711">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1586974853711" />
+    <state width="1255" height="219" key="GridCell.Tab.0.left" timestamp="1586974853708">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1586974853708" />
+    <state width="1255" height="219" key="GridCell.Tab.0.right" timestamp="1586974853712">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1586974853712" />
+    <state width="1255" height="219" key="GridCell.Tab.1.bottom" timestamp="1586974853595">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.bottom/65.27.1301.741@65.27.1301.741" timestamp="1586974853595" />
+    <state width="1255" height="219" key="GridCell.Tab.1.center" timestamp="1586974853594">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.center/65.27.1301.741@65.27.1301.741" timestamp="1586974853594" />
+    <state width="1255" height="219" key="GridCell.Tab.1.left" timestamp="1586974853594">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.left/65.27.1301.741@65.27.1301.741" timestamp="1586974853594" />
+    <state width="1255" height="219" key="GridCell.Tab.1.right" timestamp="1586974853595">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.right/65.27.1301.741@65.27.1301.741" timestamp="1586974853595" />
+    <state x="204" y="31" key="SettingsEditor" timestamp="1586974761171">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="204" y="31" key="SettingsEditor/65.27.1301.741@65.27.1301.741" timestamp="1586974761171" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586877518423">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/65.27.1301.741@65.27.1301.741" timestamp="1586877518423" />
+  </component>
+</project>

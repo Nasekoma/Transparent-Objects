@@ -1,0 +1,3 @@
+/home/july/MASHgraph/BRIGHTIES/Transparent-Objects-tmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/july/MASHgraph/BRIGHTIES/Transparent-Objects-tmp/cmake-build-debug/CMakeFiles/ALCHEMYgraph.dir
+/home/july/MASHgraph/BRIGHTIES/Transparent-Objects-tmp/cmake-build-debug/CMakeFiles/edit_cache.dir
